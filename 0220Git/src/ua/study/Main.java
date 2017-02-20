@@ -15,6 +15,9 @@ public class Main {
 		for (String fr : fraction) {
 			System.out.println(fr);
 		}
+		
+		System.out.println("from git");
+
 //							true      false
 //		int x = 1000 > 300 ? 12345 : 1034;
 	}
