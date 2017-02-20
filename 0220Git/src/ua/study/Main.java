@@ -16,7 +16,8 @@ public class Main {
 			System.out.println(fr);
 		}
 		
-		System.out.println("from git");
+		System.out.println("from git eclipse");
+		System.out.println("newBranch");
 
 //							true      false
 //		int x = 1000 > 300 ? 12345 : 1034;
